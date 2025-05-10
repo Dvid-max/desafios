@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+     
+    background-image: linear-gradient(to right, rgb(63, 60, 60), rgb(95, 94, 94));
+    
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: serif;
+}
+
+a:hover {
+    color: blue;
+}
+
+a img {
+    box-shadow: 5px 5px 5px black;
+    
+}
+
+main {
+    color: white;
+    text-shadow: 1px 1px 1px rgb(63, 60, 60) ;
+    text-align: center;
+}
+
+img:hover {
+    box-shadow: 3px 3px 15px blue;   
+}    
