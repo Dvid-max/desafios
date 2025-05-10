@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.manutencao {
+    background-color: red;
+    columns: white ;
+    text-align: center;
+    height: 4em;
+}
